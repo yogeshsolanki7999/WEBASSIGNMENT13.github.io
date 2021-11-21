@@ -1,0 +1,149 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.left-para{
+    width: 300px;
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+
+}
+.left-para > p {
+    margin: 0px;
+}
+
+.main-title{
+text-align: center;
+    width: 700px;
+}
+
+.right-para{
+ width: 300px;
+}
+.right-para > p {
+    text-align: center;
+    margin: 0px;
+}
+.Date{
+    text-align: center;
+    text-transform: uppercase;
+    margin:0px;
+    font-size: small;
+}
+
+hr{
+    margin: 0px;
+}
+.sub-heading , .sub-heading2{
+    text-align: center;
+    margin: 0px;
+}
+
+.flex-container{
+    display: flex;
+    margin-left: 15px;
+}
+
+.left-1{
+    width: 1050px;
+    display: flex;
+    flex-direction: column;
+
+}
+.right-1{
+    display: flex;
+    width: 390px;
+    flex-direction: column;
+}
+
+#h4-right-1-heading-1{
+    text-align: center;
+    
+}
+
+.right1-para-1{
+    display: flex;
+
+}
+.right-1para-1-column-1{
+    width: 170px;
+}
+.right-1para-1-column-2{
+    width: 210px;
+}
+
+.left-1-img-1 > p {
+    margin-top: 0px;
+}
+
+.left-1-conatiner-1{
+    display: flex;
+}
+
+.left-1-container-1-left{
+    border-right: 1px solid black;
+    width: 180px;
+    text-align: center;
+}
+
+.left-1-container-1-left > p , hr , h2 ,h4 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+} 
+
+.left-1-container-1-right{
+    display: flex;
+    flex-direction: column;
+    width:800px ;
+}
+.left-1-container-1-right-heading-1 > h2 {
+    text-align: center;
+}
+.left-1-container-1-right-content-1{
+    display: flex;
+}
+.section-left , .section-center , .section-right{
+    width: 250px;
+    margin-left: 15px;
+}
+.left-1-container-1-right-heading-1 > h4 {
+    text-align: center;
+}
+
+.section-right > img {
+    margin-top: 15px;
+    width: 255px;
+    height: 175px;
+}
+
+#nw{
+    font-family: 'EB Garamond', serif;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'UnifrakturCook', cursive;
+
+font-size: 64px;
+margin: 0px;
+}
+
+.left-1-container-1-left > hr {
+    width: 50%;
+    margin-left: 35px;
+    height: 1px;
+    background-color: black;
+    border: none;
+}
+
+.left-1-container-1-right-heading-1 > hr{
+    width: 50%;
+    margin-left: 199px;
+    height: 1px;
+    background-color: black;
+    border: none;
+
+}
+.left-1-container-1-right{
+    border-right: 1px solid black;
+}
